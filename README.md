@@ -12,19 +12,19 @@ A detailed analysis of Ireland's most exported agricultural products, evaluating
 
 This project aims to provide a comprehensive understanding of Ireland’s agricultural sector and its global standing, supported by data-driven insights throughout the following analysis.
 
-# Data  Preparation & Visualization	
+### Data  Preparation & Visualization	
 - Exploratory Data Analysis
 - Data Understanding & Data Preparation
 - Anomalies & Missing values
 - Feature Relationships
 - Data Visualization & Interactive Dashboard
 
-# Statistics
+### Statistics
 - Descriptive Statistics, Measures of the Central Tendency & Measures of Dispersion
 - Inferential Statistics
 - Hypothesis Testing
 
-# Machine Learning
+### Machine Learning
 - Regression, Classification & Clustering
 - Cross-Validation	48
 - Hyperparameter Tuning
